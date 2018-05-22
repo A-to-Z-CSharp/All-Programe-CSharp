@@ -1,0 +1,6 @@
+F:\خاص\برمجة السي شارب\مشاريع\first program\first program\bin\Debug\first program.exe.config
+F:\خاص\برمجة السي شارب\مشاريع\first program\first program\bin\Debug\first program.exe
+F:\خاص\برمجة السي شارب\مشاريع\first program\first program\bin\Debug\first program.pdb
+F:\خاص\برمجة السي شارب\مشاريع\first program\first program\obj\Debug\first program.csprojResolveAssemblyReference.cache
+F:\خاص\برمجة السي شارب\مشاريع\first program\first program\obj\Debug\first program.exe
+F:\خاص\برمجة السي شارب\مشاريع\first program\first program\obj\Debug\first program.pdb
