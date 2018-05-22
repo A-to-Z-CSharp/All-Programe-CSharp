@@ -1,0 +1,6 @@
+F:\خاص\برمجة السي شارب\مشاريع\variable and convert variable\variable and convert variable\bin\Debug\variable and convert variable.exe.config
+F:\خاص\برمجة السي شارب\مشاريع\variable and convert variable\variable and convert variable\bin\Debug\variable and convert variable.exe
+F:\خاص\برمجة السي شارب\مشاريع\variable and convert variable\variable and convert variable\bin\Debug\variable and convert variable.pdb
+F:\خاص\برمجة السي شارب\مشاريع\variable and convert variable\variable and convert variable\obj\Debug\variable and convert variable.exe
+F:\خاص\برمجة السي شارب\مشاريع\variable and convert variable\variable and convert variable\obj\Debug\variable and convert variable.pdb
+F:\خاص\برمجة السي شارب\مشاريع\variable and convert variable\variable and convert variable\obj\Debug\variable and convert variable.csprojResolveAssemblyReference.cache
