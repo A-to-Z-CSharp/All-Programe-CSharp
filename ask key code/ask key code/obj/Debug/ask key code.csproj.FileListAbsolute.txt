@@ -1,0 +1,6 @@
+F:\خاص\برمجة السي شارب\مشاريع\ask key code\ask key code\bin\Debug\ask key code.exe.config
+F:\خاص\برمجة السي شارب\مشاريع\ask key code\ask key code\bin\Debug\ask key code.exe
+F:\خاص\برمجة السي شارب\مشاريع\ask key code\ask key code\bin\Debug\ask key code.pdb
+F:\خاص\برمجة السي شارب\مشاريع\ask key code\ask key code\obj\Debug\ask key code.csprojResolveAssemblyReference.cache
+F:\خاص\برمجة السي شارب\مشاريع\ask key code\ask key code\obj\Debug\ask key code.exe
+F:\خاص\برمجة السي شارب\مشاريع\ask key code\ask key code\obj\Debug\ask key code.pdb
