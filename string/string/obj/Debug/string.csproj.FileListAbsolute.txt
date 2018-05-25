@@ -1,0 +1,6 @@
+F:\خاص\برمجة السي شارب\مشاريع\string\string\bin\Debug\@string.exe.config
+F:\خاص\برمجة السي شارب\مشاريع\string\string\bin\Debug\@string.exe
+F:\خاص\برمجة السي شارب\مشاريع\string\string\bin\Debug\@string.pdb
+F:\خاص\برمجة السي شارب\مشاريع\string\string\obj\Debug\string.csprojResolveAssemblyReference.cache
+F:\خاص\برمجة السي شارب\مشاريع\string\string\obj\Debug\@string.exe
+F:\خاص\برمجة السي شارب\مشاريع\string\string\obj\Debug\@string.pdb
