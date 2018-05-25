@@ -1,0 +1,6 @@
+F:\خاص\برمجة السي شارب\مشاريع\literal_characters\literal_characters\bin\Debug\literal_characters.exe.config
+F:\خاص\برمجة السي شارب\مشاريع\literal_characters\literal_characters\obj\Debug\literal_characters.csprojResolveAssemblyReference.cache
+F:\خاص\برمجة السي شارب\مشاريع\literal_characters\literal_characters\bin\Debug\literal_characters.exe
+F:\خاص\برمجة السي شارب\مشاريع\literal_characters\literal_characters\bin\Debug\literal_characters.pdb
+F:\خاص\برمجة السي شارب\مشاريع\literal_characters\literal_characters\obj\Debug\literal_characters.exe
+F:\خاص\برمجة السي شارب\مشاريع\literal_characters\literal_characters\obj\Debug\literal_characters.pdb
